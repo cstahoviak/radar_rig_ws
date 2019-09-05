@@ -1,5 +1,7 @@
 build/
 devel/
+logs/
+.catkin_tools/
 src/phidgets_drivers
 src/urg_node
 src/serial
