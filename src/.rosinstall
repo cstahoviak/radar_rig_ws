@@ -1,0 +1,15 @@
+- git:
+    local-name: phidgets_drivers
+    uri: https://github.com/ros-drivers/phidgets_drivers.git
+- git:
+    local-name: serial
+    uri: https://github.com/wjwwood/serial.git
+- git:
+    local-name: ti_mmwave_rospkg
+    uri: https://github.com/arpg/ti_mmwave_rospkg.git
+- git:
+    local-name: urg_node
+    uri: https://github.com/ros-drivers/urg_node.git
+- git:
+    local-name: goggles
+    uri: https://github.com/arpg/goggles.git
