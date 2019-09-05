@@ -13,3 +13,6 @@
 - git:
     local-name: goggles
     uri: https://github.com/arpg/goggles.git
+- git:
+    local-name: realsense-ros
+    uri: https://github.com/IntelRealSense/realsense-ros.git

@@ -5,3 +5,4 @@ src/urg_node
 src/serial
 src/ti_mmwave_rospkg
 src/goggles
+src/realsense-ros
