@@ -1,4 +1,7 @@
 - git:
+    local-name: radar_rig
+    uri: https://github.com/cstahoviak/radar_rig.git
+- git:
     local-name: serial
     uri: https://github.com/wjwwood/serial.git
 - git:

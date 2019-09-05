@@ -2,9 +2,9 @@ build/
 devel/
 logs/
 .catkin_tools/
-src/phidgets_drivers
-src/urg_node
+src/radar_rig
 src/serial
 src/ti_mmwave_rospkg
 src/goggles
+src/urg_node
 src/realsense-ros
