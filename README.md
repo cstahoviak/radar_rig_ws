@@ -78,7 +78,7 @@ $ groups carl
 carl : carl adm dialout cdrom sudo dip plugdev lpadmin sambashare
 ```
 
-You can add your user to the dialout group wit hthe following:
+You can add your user to the dialout group with the following:
 
 ```
 sudo adduser <user> dialout
