@@ -61,6 +61,7 @@ All meta launch files associated with the MARBLE Radar Rig can be located at:
 
 ```
 radar_rig_ws/src/radar_rig/launch
+```
 
 ## Troubleshooting
 
