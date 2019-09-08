@@ -8,9 +8,6 @@
     local-name: ti_mmwave_rospkg
     uri: https://github.com/arpg/ti_mmwave_rospkg.git
 - git:
-    local-name: urg_node
-    uri: https://github.com/ros-drivers/urg_node.git
-- git:
     local-name: goggles
     uri: https://github.com/arpg/goggles.git
 - git:
