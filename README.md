@@ -62,3 +62,23 @@ All meta launch files associated with the MARBLE Radar Rig can be located at:
 ```
 radar_rig_ws/src/radar_rig/launch
 ```
+
+## Troubleshooting
+
+1. If the sensors fail to launch (you will get error messsages like `cannot open serial port`), your username is likely not a member of the `dialout` group. You can check this with the following:
+
+```
+groups <user>
+```
+
+You may get something like this (in this case, I am a member of the dialout group):
+
+```
+$ groups carl
+carl : carl adm dialout cdrom sudo dip plugdev lpadmin sambashare
+```
+
+You can add your user to the dialout group with the following:
+
+```
+sudo adduser <user> dialout
