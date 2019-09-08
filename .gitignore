@@ -7,3 +7,4 @@ src/serial
 src/ti_mmwave_rospkg
 src/goggles
 src/realsense-ros
+src/urg_node
